@@ -4,9 +4,6 @@ Welcome to Ciseco - your ultimate solution for creating a stunning and responsiv
 
 Link - https://ciseco-omega.vercel.app/
 
-![Homepage](https://raw.githubusercontent.com/UsmanLiaqat404/ciseco-nextjs-ecommerce/main/src/images/demos/demo-1.png?token=GHSAT0AAAAAACOEQ7WJW5BLQMOYGQ3QOAJAZP2IUNA)
-![Product Page](https://github.com/UsmanLiaqat404/ciseco-nextjs-ecommerce/blob/main/src/images/demos/demo-2.png?raw=true)
-
 ## Features
 
 - **Modern Design**: Ciseco boasts a contemporary design crafted to captivate your audience and enhance user experience.
